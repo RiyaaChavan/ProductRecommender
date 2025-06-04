@@ -1,4 +1,4 @@
-https://github.com/Avishkarm/ProductRecommender 
+
 ## Features
 
 - **Dynamic Product Listing**: Browse through a wide range of products dynamically loaded from an API.
