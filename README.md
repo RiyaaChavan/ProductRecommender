@@ -32,7 +32,7 @@ You need to have the following software installed:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/Avishkarm/ProductRecommender.git 
+    git clone https://github.com/RiyaaChavan/ProductRecommender.git 
     ```
 
 2. Navigate to the project directory:
